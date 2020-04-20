@@ -1,2 +1,2 @@
 # Python
- Python codes and exercises.
+ Python code and exercises.
