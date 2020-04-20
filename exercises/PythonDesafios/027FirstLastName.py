@@ -1,0 +1,5 @@
+str = str(input('Enter your full name: ')).strip()
+name = str.split()
+print('Nice to meet you, {}.'.format(str))
+print('Your first name is {}.'.format(name[0]))
+print('Your last name is {}.'.format(name[len(name)-1]))
